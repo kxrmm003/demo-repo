@@ -20,4 +20,4 @@ feature (button)
 feature (scrolldown)
 feature (scrollup)
 <br>
-down
+up
