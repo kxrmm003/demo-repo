@@ -8,4 +8,6 @@ This is the line which is to be pulled in the local system.
 <br>
 This is a line for add and commit.(with push)
 <br>
-Creating new branch here.
+Creating new branch here.(in local system)
+<br>
+This is a line in feature1 branch which is to be merged with main.
