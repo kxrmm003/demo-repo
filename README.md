@@ -20,8 +20,5 @@ feature (button)
 feature (scrolldown)
 feature (scrollup)
 <br>
-<<<<<<< HEAD
 up
-=======
 down
->>>>>>> main
